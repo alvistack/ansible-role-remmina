@@ -1,4 +1,4 @@
-# Ansible Role for Remmina
+# Ansible Role for Remmina with Flatpak
 
 ## 13.6.0 - TBC
 

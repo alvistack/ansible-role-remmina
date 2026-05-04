@@ -1,13 +1,13 @@
-# Ansible Role for Remmina
+# Ansible Role for Remmina with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-remmina/master)](https://gitlab.com/alvistack/ansible-role-remmina/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-remmina.svg)](https://github.com/alvistack/ansible-role-remmina/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-remmina.svg)](https://github.com/alvistack/ansible-role-remmina/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.remmina-blue.svg)](https://galaxy.ansible.com/alvistack/remmina)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_remmina/master)](https://gitlab.com/alvistack/ansible-role-flatpak_remmina/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_remmina.svg)](https://github.com/alvistack/ansible-role-flatpak_remmina/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_remmina.svg)](https://github.com/alvistack/ansible-role-flatpak_remmina/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_remmina-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_remmina)
 
-Ansible Role for Remmina Installation.
+Ansible Role for Remmina with Flatpak.
 
 ## Requirements
 
