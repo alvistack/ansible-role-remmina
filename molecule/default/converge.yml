@@ -24,4 +24,4 @@
 
     - name: include role
       ansible.builtin.include_role:
-        name: alvistack.remmina
+        name: alvistack.flatpak_remmina
